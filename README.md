@@ -49,7 +49,7 @@ TWILIO_PHONE_NUMBER=your_twilio_number
 4.Run the Application
 go run main.go
 If successful you will see: Message sent successfully! SID: SMxxxxxxxxxxxxxxxx
-<img width="1536" height="1024" alt="ChatGPT Image Feb 13, 2026, 05_58_47 PM" src="https://github.com/user-attachments/assets/e07bcf73-ecc5-4500-a259-71b32ffb37dc" />
+
 
 
 🔐 Security
@@ -69,5 +69,6 @@ Add error logging system
 Deploy to cloud (AWS / Render / Railway)
 
 ## 📂 Project Structure
+
 
 
